@@ -3,12 +3,12 @@ let n = null;
 let prev_n = null;
 
 let currentAudio = null;
-let omikuji_sound1 = new Audio("../sound/omikuji_sound1.mp3");
-let omikuji_sound2 = new Audio("../sound/omikuji_sound2.mp3");
-let omikuji_sound3 = new Audio("../sound/omikuji_sound3.mp3");
-let omikuji_sound4 = new Audio("../sound/omikuji_sound4.mp3");
-let omikuji_sound5 = new Audio("../sound/omikuji_sound5.mp3");
-let omikuji_sound6 = new Audio("../sound/omikuji_sound6.mp3");
+let omikuji_sound1 = new Audio("./sound/omikuji_sound1.mp3");
+let omikuji_sound2 = new Audio("./sound/omikuji_sound2.mp3");
+let omikuji_sound3 = new Audio("./sound/omikuji_sound3.mp3");
+let omikuji_sound4 = new Audio("./sound/omikuji_sound4.mp3");
+let omikuji_sound5 = new Audio("./sound/omikuji_sound5.mp3");
+let omikuji_sound6 = new Audio("./sound/omikuji_sound6.mp3");
 let resultSound = [
   omikuji_sound1,
   omikuji_sound2,
